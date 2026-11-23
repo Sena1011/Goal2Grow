@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b835b46854dc5b54f81873c19b5cd923, type: 3}
+  m_Name: Sunflower
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: SunflowerSeed
+  displayName: Sunflower Seed
+  sprite: {fileID: -1009808876051585170, guid: fe2f9dc6029e5fc41ac1d0ab821dd1c7, type: 3}
+  price: 50
+  category: 0
+  size: {x: 1, y: 1}
+  isPlantBox: 0
+  needsPlantBox: 0
+  isSeed: 1
+  growthNeeded: 6
+  grownItem: {fileID: 11400000, guid: 7a84396bb6c8e384e96b7e2870a44387, type: 2}
+  stageSprites:
+  - {fileID: -6710241550191920354, guid: 951a532b2cbc8b04c81c6b7c83241d47, type: 3}
+  - {fileID: -8554752037976962710, guid: a269ee75b5c99454abcacdf4a30a048a, type: 3}
+  - {fileID: -6848739841698953806, guid: 283f66c63ae622443bcc1c63757b715f, type: 3}

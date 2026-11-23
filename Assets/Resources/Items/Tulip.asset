@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b835b46854dc5b54f81873c19b5cd923, type: 3}
+  m_Name: Tulip
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  id: TulipSeed
+  displayName: Tulip Seed
+  sprite: {fileID: 3142613781620417982, guid: 9a22d0bedee662f45b8561c475dc898f, type: 3}
+  price: 50
+  category: 0
+  size: {x: 1, y: 1}
+  isPlantBox: 0
+  needsPlantBox: 0
+  isSeed: 1
+  growthNeeded: 6
+  grownItem: {fileID: 11400000, guid: f1ba973e6462e5145b9535511986c388, type: 2}
+  stageSprites:
+  - {fileID: -6710241550191920354, guid: 951a532b2cbc8b04c81c6b7c83241d47, type: 3}
+  - {fileID: -7474959434359793680, guid: ae7d51d71ab195347902603650dfdd99, type: 3}
+  - {fileID: -1165426439137183850, guid: c4491d7bb6a7abc4abe95809db10f917, type: 3}

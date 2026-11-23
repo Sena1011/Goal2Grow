@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 16a80beebccbd1a44becdbc8f1d3cb9e
+  - enabled: 1
+    path: Assets/Scenes/HomeRoom.unity
+    guid: 0c9b1e417776c84499897c3a5b10e3ce
+  - enabled: 1
+    path: Assets/Scenes/Garden.unity
+    guid: 0e54a6416869c3e4d9f3d45bdbe33c5d
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 5c1efd737277d4149a2b0bb041aa8deb
+  - enabled: 1
+    path: Assets/Scenes/ConnectTheDot.unity
+    guid: b3ecdb7cefcca5742a0e7c10f1f417ce
+  - enabled: 1
+    path: Assets/Scenes/MemoryGame.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/CodeHunt.unity
+    guid: ad67132d8fd8db2408aa5ed27c0ed081
+  - enabled: 1
+    path: Assets/Scenes/LaptopMenu.unity
+    guid: 12e8bc04ec5be244fb8ec0d243419a51
+  - enabled: 1
+    path: Assets/Scenes/MiniGame Menu.unity
+    guid: 1d7eb3ddd2654344ab58d1b25836523d
+  - enabled: 1
+    path: Assets/Scenes/Journal.unity
+    guid: 543a5605748f96242b661d42e47d3db2
+  - enabled: 1
+    path: Assets/Scenes/FlappyBird.unity
+    guid: 00d7618548716404a9ece07644b4092b
+  - enabled: 1
+    path: Assets/Scenes/ProfileScenes.unity
+    guid: c35541277ca9dfa4d92acb50c2c42a64
+  - enabled: 1
+    path: Assets/Scenes/Achievement.unity
+    guid: 2e4ee86a6e321fb439899c6b4d370c9e
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
